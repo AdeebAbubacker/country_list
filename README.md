@@ -2,13 +2,16 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/ic_launcher.png" alt="Country App Logo" width="200"/>
-  <p>The Country App fetches real-time data from APIs and displays a list of countries. Users can filter countries by region and sort them in ascending or descending order based on name or population. The clean UI ensures a smooth, user-friendly experience for exploring country information.</p>
+  <h3>The Country App fetches real-time data from APIs and displays a list of countries.</h3>
+  <p>Users can filter countries by region and sort them in ascending or descending order based on name or population. The clean UI ensures a smooth, user-friendly experience for exploring country information.</p>
 </div>
 
-## App Screenshot
+---
+
+## 📱 App Screenshot
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/1000205937.jpg" alt="App Screenshot" width="200"/>
+  <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/1000205937.jpg" alt="App Screenshot" width="250"/>
 </div>
 
 ---
@@ -20,6 +23,7 @@
 | **Flutter**   | Frontend framework for cross-platform UI.      |
 | **Firebase**  | Backend services including Authentication.     |
 
+---
 
 ## 🚀 Getting Started
 
