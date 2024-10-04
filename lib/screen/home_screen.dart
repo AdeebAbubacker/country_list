@@ -140,17 +140,17 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
               const SizedBox(height: 35),
               isApiCalled == true
-                  ? SpinKitFadingCircle(
+                  ? const SpinKitFadingCircle(
                       color: Colors.blue,
                       size: 30.0,
                     )
-                  : SizedBox(),
+                  : const SizedBox(),
               const SizedBox(height: 20),
               const Text(
                 "COUNTRY LIST",
                 style: TextStyle(color: Colors.black, fontSize: 30),
               ),
-              SizedBox(height: 30),
+              const SizedBox(height: 30),
               Row(
                 children: [
                   Padding(
