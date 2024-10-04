@@ -38,14 +38,14 @@ class _HomeScreenState extends State<HomeScreen> {
       context
           .read<GetcountryListBloc>()
           .add(const GetcountryListEvent.fetchAllQuestionBank());
-      print("API called once!");
+
     }
 
     if (_scrollController.offset >= 0 && isApiCalled) {
       setState(() {
         isApiCalled = false; // Unblock API call
       });
-      print("API call unblocked!");
+   
     }
   }
 
@@ -100,7 +100,7 @@ class _HomeScreenState extends State<HomeScreen> {
       listener: (context, state) async {
         state.maybeMap(
           orElse: () {
-            print('No countries available');
+          
           },
           createdQuestionBank: (value) async {
             if (!Hive.isBoxOpen('countryCodeBox')) {
