@@ -7,7 +7,7 @@ A new Flutter project.
 # 📚 Country App - Mobile App
 
 <div align="center">
-  <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/logo/app%20logo.png" alt="SchoolConnect Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/ic_launcher.png" alt="SchoolConnect Logo" width="200"/>
   <p>Country App is a Flutter project focused solely on the UI of a burger app. The design emphasizes clean, user-friendly screens that enhance the ordering experience, making it both simple and enjoyable..</p>
 </div>
 
