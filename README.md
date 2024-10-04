@@ -1,37 +1,17 @@
-# Country App
-
-A new Flutter project.
-
-## Getting Started
-
 # 📚 Country App - Mobile App
 
 <div align="center">
-  <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/logo/app%20logo.png" alt="SchoolConnect Logo" width="200"/>
-  <p>Country App is a Flutter project focused solely on the UI of a burger app. The design emphasizes clean, user-friendly screens that enhance the ordering experience, making it both simple and enjoyable..</p>
+  <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/ic_launcher.png" alt="Country App Logo" width="200"/>
+  <h3>The Country App fetches real-time data from APIs and displays a list of countries.</h3>
+  <p>Users can filter countries by region and sort them in ascending or descending order based on name or population. The clean UI ensures a smooth, user-friendly experience for exploring country information.</p>
 </div>
 
-## App Screenshots
+---
+
+## 📱 App Screenshot
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/common/1000204983.jpg" alt="Screen 1" width="200"/>
-      </td>
-      <td>
-        <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/common/1000204984.jpg" alt="Screen 2" width="200"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/common/1000204985.jpg" alt="Screen 3" width="200"/>
-      </td>
-      <td>
-        <img src="https://github.com/AdeebAbubacker/chicking/blob/main/assets/common/1000204986.jpg" alt="Screen 4" width="200"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/1000205937.jpg" alt="App Screenshot" width="250"/>
 </div>
 
 ---
@@ -43,6 +23,7 @@ A new Flutter project.
 | **Flutter**   | Frontend framework for cross-platform UI.      |
 | **Firebase**  | Backend services including Authentication.     |
 
+---
 
 ## 🚀 Getting Started
 
@@ -57,7 +38,5 @@ A new Flutter project.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/AdeebAbubacker/chicking
-   cd chicking
-
-   ```
+   git clone https://github.com/AdeebAbubacker/country_list
+   cd country_list
