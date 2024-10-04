@@ -57,7 +57,7 @@ A new Flutter project.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/AdeebAbubacker/chicking
-   cd chicking
+   git clone https://github.com/AdeebAbubacker/country_list
+   cd country_list
 
    ```
