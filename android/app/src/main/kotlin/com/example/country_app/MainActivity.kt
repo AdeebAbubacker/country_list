@@ -1,4 +1,4 @@
-package com.example.country_app
+package com.pupiltube.app
 
 import io.flutter.embedding.android.FlutterActivity
 

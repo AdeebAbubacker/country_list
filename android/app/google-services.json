@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958331775033",
+    "project_id": "pupiltube",
+    "storage_bucket": "pupiltube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958331775033:android:445c37af33621439c985e8",
+        "android_client_info": {
+          "package_name": "com.pupiltube.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVw1FjhgclazVvHz_H-lQz2eECBWIHWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

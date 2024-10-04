@@ -1,15 +1,20 @@
 import 'package:country_app/core/db/hive_db/adapter/country_adapter/country_adapter.dart';
 import 'package:country_app/core/db/hive_db/box/country_box.dart';
 import 'package:country_app/core/view_model/getcountryList/getcountry_list_bloc.dart';
+import 'package:country_app/firebase_options.dart';
 import 'package:country_app/screen/home_screen.dart';
 import 'package:country_app/screen/test_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+    await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   await Hive.initFlutter();
 
   ///-------------Initialize Hive----------------------------
@@ -23,7 +28,7 @@ Future<void> main() async {
   // Run the app
   runApp(const CountryApp());
 }
-
+//----------------------------------------------------------------
 class CountryApp extends StatelessWidget {
   const CountryApp({super.key});
 
