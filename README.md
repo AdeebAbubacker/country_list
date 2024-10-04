@@ -8,7 +8,7 @@ A new Flutter project.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AdeebAbubacker/country_list/refs/heads/main/assets/ic_launcher.png" alt="SchoolConnect Logo" width="200"/>
-  <p>Country App is a Flutter project focused solely on the UI of a burger app. The design emphasizes clean, user-friendly screens that enhance the ordering experience, making it both simple and enjoyable..</p>
+  <p>The Country App now fetches real-time data from APIs and displays a list of countries. Users can filter countries by region and sort them in ascending or descending order based on name or population. The clean UI ensures a smooth, user-friendly experience for exploring country information.</p>
 </div>
 
 ## App Screenshots
